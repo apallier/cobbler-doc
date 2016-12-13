@@ -5,9 +5,9 @@
 
 .. codeauthor:: apallier
 
-=====================
-Cobbler documentation
-=====================
+========================
+My Cobbler documentation
+========================
 
 Personal notes on the tool `Cobbler <http://cobbler.github.io/>`_.
 
